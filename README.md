@@ -26,7 +26,7 @@
 ```js
 exports.cas = {
   enable: true,
-  package: 'egg-cas'
+  package: 'egg-cas2'
 }
 ```
 

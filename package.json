@@ -1,6 +1,6 @@
 {
   "name": "egg-cas2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "eggPlugin": {
     "name": "cas"
   }
